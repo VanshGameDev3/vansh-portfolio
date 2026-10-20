@@ -4,7 +4,7 @@ export const links = {
   emailText: 'vanshpandya1417@gmail.com',
   linkedin: 'https://www.linkedin.com/in/vansh-pandya-95614a377',
   github: 'https://github.com/VanshGameDev3',
-  resume: '/Vansh_Pandya_CV.pdf',
+  resume: '/Vansh_Pandya_CV.pdf?v=20261020-2',
 };
 
 export const names: Record<string, string> = {
